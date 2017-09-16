@@ -1,1 +1,1 @@
-New things about C language I have learnt through tha day.
+New things about C language I have learnt through the day.
