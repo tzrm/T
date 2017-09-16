@@ -1,2 +1,2 @@
-# T
-doing something
+# TIL
+today i learned
